@@ -1,0 +1,263 @@
+.hm-active-users-card {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  width: 594px;
+  height: 463px;
+}
+
+.cardClass {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  border-radius: 20px;
+  box-shadow: 0px 10px 30px rgba(209, 213, 223, 0.5);
+  background-color: #ffffff;
+  width: 570px;
+  height: 423px;
+}
+
+.titleClass {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding-right: 32px;
+  padding-left: 30px;
+  width: 570px;
+}
+
+.title {
+  opacity: 1;
+  width: 64px;
+  height: 24px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #858997;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.titleImg {
+  margin-top: 10px;
+  width: 18px;
+  height: 4px;
+}
+
+.Wrap {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 30px;
+  height: 47px;
+}
+
+.color {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 31px;
+  border-radius: 5px;
+  background-color: #5351fb;
+  width: 10px;
+  height: 10px;
+}
+
+.monthWrap {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-left: 24px;
+  height: 47px;
+}
+
+.wan {
+  opacity: 1;
+  margin-top: 1px;
+  line-height: 25px;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.monthly {
+  opacity: 1;
+  max-width: 39px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 21px;
+  white-space: nowrap;
+  color: #858997;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.colorDiv {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 60px;
+  border-radius: 5px;
+  background-color: #00cd98;
+  width: 10px;
+  height: 10px;
+}
+
+.weekWrap {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-left: 24px;
+  height: 47px;
+}
+
+.weekNum {
+  opacity: 1;
+  line-height: 25px;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.weekly {
+  opacity: 1;
+  margin-top: 1px;
+  max-width: 34px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 21px;
+  white-space: nowrap;
+  color: #858997;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.colorWrap {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 59px;
+  border-radius: 5px;
+  background-color: #f6b900;
+  width: 10px;
+  height: 10px;
+}
+
+.dayWrap {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-left: 24px;
+  height: 47px;
+}
+
+.people {
+  opacity: 1;
+  max-width: 208px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 25px;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.daily {
+  opacity: 1;
+  margin-top: 1px;
+  max-width: 208px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 21px;
+  white-space: nowrap;
+  color: #858997;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.main {
+  display: flex;
+  position: relative;
+  margin-top: 29px;
+  background-color: #eeeff3;
+  width: 570px;
+  height: 1px;
+}
+
+.row {
+  display: flex;
+  position: relative;
+  margin-top: 40px;
+  background-color: #eeeff3;
+  width: 570px;
+  height: 1px;
+}
+
+.row1 {
+  display: flex;
+  position: relative;
+  margin-top: 40px;
+  background-color: #eeeff3;
+  width: 570px;
+  height: 1px;
+}
+
+.row2 {
+  display: flex;
+  position: relative;
+  margin-top: 40px;
+  background-color: #eeeff3;
+  width: 570px;
+  height: 1px;
+}
+
+.floorBg {
+  position: absolute;
+  top: 150px;
+  left: 20px;
+  width: 530px;
+  height: 70px;
+}
+
+.longBg {
+  position: absolute;
+  bottom: 123px;
+  left: 20px;
+  width: 530px;
+  height: 87px;
+}
+
+.row3 {
+  display: flex;
+  position: relative;
+  margin-top: 40px;
+  background-color: #eeeff3;
+  width: 570px;
+  height: 1px;
+}
+
+.tail {
+  display: flex;
+  position: relative;
+  margin-top: 40px;
+  background-color: #eeeff3;
+  width: 570px;
+  height: 1px;
+}
+
+.barImg {
+  position: absolute;
+  bottom: 33px;
+  left: 20px;
+  width: 530px;
+  height: 70px;
+}
